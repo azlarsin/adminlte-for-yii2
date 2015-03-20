@@ -34,7 +34,8 @@ put the files in the right places with yii2 framework.
       ); ?>
 
   </pre>
-2. online demo: [azlar.cc/admin-lte](http://www.azlar.cc/admin-lte)
+2. online demo: [azlar.cc/admin-lte](http://www.azlar.cc/admin-lte).
+3. make the new Asset for using the plugins in the @app/vendor/bower/admin-lte/source/css(js)/plugins
 
 
   
