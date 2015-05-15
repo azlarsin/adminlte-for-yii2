@@ -44,7 +44,7 @@ use yii;
  *
  *
  */
-class LeftMenu extends Widget{
+class LeftMenu extends yii\bootstrap\Widget{
 
     public $paramsId = 'topNav';
 
